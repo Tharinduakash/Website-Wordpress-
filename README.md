@@ -1,7 +1,7 @@
 # Website-Wordpress-
 
 
-#This repository contains the codebase for the Travel Buddies website, a platform designed to provide travel gear rentals and sales for adventurers in Sri Lanka. The project #features:
+This repository contains the codebase for the Travel Buddies website, a platform designed to provide travel gear rentals and sales for adventurers in Sri Lanka. The project #features:
 
 A user-friendly interface for browsing and booking travel equipment.
 Dynamic product pages for camping, hiking, and beach gear.
